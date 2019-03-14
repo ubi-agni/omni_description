@@ -17,7 +17,7 @@
     <visual>
       <origin xyz="0 0 0.04" />
       <geometry>
-	<sphere radius=".06" />
+	<sphere radius="0.06" />
       </geometry>
     </visual>
   </link>
