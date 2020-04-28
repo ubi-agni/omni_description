@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <robot
     xmlns="http://www.ros.org/wiki/urdf"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation=
-    "https://raw.github.com/laas/urdf_validator/master/urdf.xsd"
     name="omni">
   <link name="base" >
     <visual>
